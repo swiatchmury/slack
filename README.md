@@ -1,14 +1,16 @@
 # Slack "Świat Chmury"
 
-Cześć!
-Świetnie, że dołączasz do naszego chmurowego slacka!
-Napisz nam krótko, czym się zajmujesz, do jakich egzaminów przygotowujesz się, a jakie masz już za sobą.
+Świat Chmury jest przede wszystkim miejscem wymiany wiedzy technicznej i biznesowej oraz miejscem spotkań dla specjalistów z dziedziny chmury obliczeniowej.
 
-Jeśli zechcesz dzielić się tu swoją wiedzą i doświadczeniem dotyczącym chmury - śmiało dodawaj linki do dobrej jakości materiałów technicznych, odpowiadaj na pytania i pomagaj innym zdobywać certyfikacje.
+Nie mamy wielu sztywnych zasad, ale obowiązują tu:
+
+- merytokracja
+- kultura
+- gentelmen's agreements :-)
 
 ## Dla kogo?
 
-Dla wszystkich osób zainteresowanych wymianą wiedzy technicznej i doświadczeń w obszarze chmur obliczeniowych.
+Dla wszystkich osób zainteresowanych wymianą wiedzy technicznej i doświadczenia w obszarze chmur obliczeniowych.
 
 ## Co robimy?
 
@@ -21,6 +23,8 @@ Dla wszystkich osób zainteresowanych wymianą wiedzy technicznej i doświadcze�
 - Dobrej jakości informacje techniczne o chmurze
 - Kontakt ze specjalistami od chmur obliczeniowych
 
+Jeśli zechcesz dzielić się tu swoją wiedzą i doświadczeniem dotyczącym chmury - śmiało dodawaj linki do dobrej jakości materiałów technicznych, odpowiadaj na pytania i pomagaj innym zdobywać certyfikacje.
+
 ## Co mamy do dyspozycji?
 
 - Slack
@@ -28,23 +32,38 @@ Dla wszystkich osób zainteresowanych wymianą wiedzy technicznej i doświadcze�
 - Strona na Facebooku
 - Kanał na Youtube
 
-## Co jest mile widziane?
+i kilka innych narzędzi (o szczegóły pytaj admina na kanale #org)
+
+## Co jest bardzo mile widziane?
 
 - Dzielenie się wiedzą
-- Zadawanie i odpowiadanie na pytania
+- Zadawanie pytań i odpowiadanie na pytania
 - Prowadzenie webinarów i sesji Live
 - Linki do Twojego chmurowego bloga
-- Informacje o Twoich video o chmurze, a nawet - o kursie on-line
-- Ankiety odnośnie technologii
+- Informacje o Twoich video o chmurze
 - Informacje o chmurowych wydarzeniach - w realu i online
-- Pomysły i inicjatywy - najlepiej z planem realizacji ;-) (zgłaszaj je na kanale #org)
+- Pomysły i inicjatywy - najlepiej z planem realizacji i ekipą gotową do pracy ;-)
+=> zgłaszaj je na kanale #org
 
-## ... a co nie
+## Zawsze zapytaj admina, jeśli chcesz zamieścić:
 
-- Ogłoszenia rekrutacyjne
-- Nachalna promocja (na kanałach i w wiadomościach prywatnych)
+- Informację o Twoim kursie on-line
+- Informację, że szukasz projektów, ludzi do projektu albo chcesz zaoferować swoje usługi innym
+- Ogłoszenie rekrutacyjne
+- Ogłoszenie o płatnym szkoleniu lub konferencji
+- Informację o jakimkolwiek innym, komercyjnym przedsięwzięciu
+- Ankiety odnośnie technologii
 
-W razie wątpliwości - pytaj admina na kanale #org ;-)
+Admina znajdziesz na kanale #org ;-)
+
+## Co zrobić po dołączeniu do kanałów aws-*-certs?
+
+Napisz kilka słów o sobie:
+
+- czym się zajmujesz?
+- jakie certyfikaty już masz
+- do jakich egzaminów się przygotowujesz
+- kiedy planujesz zdawać
 
 ## Lista kanałów
 
@@ -52,7 +71,8 @@ W razie wątpliwości - pytaj admina na kanale #org ;-)
 
 #### aws-associate-certs
 
-Kanał specjalnie dla osób przygotowujących się do egzaminów AWS na poziomie associate.
+Kanał specjalnie dla osób przygotowujących się do egzaminów AWS na poziomie Associate.
+Bardziej doświadczeni specjaliści od AWS też tu są by Ci pomagać na drodze po certyfikacje.
 
 #### aws-links
 
@@ -64,7 +84,7 @@ Codzienne informacje o nowościach w chmurze AWS
 
 #### aws-pro-specialty-certs (zamknięty)
 
-Kanał dla osób przygotowujących się do egzaminów AWS na poziomie specialty i pro
+Kanał dla osób przygotowujących się do egzaminów AWS na poziomie specialty i pro oraz posiadaczy co najmniej jednego z tych certyfikatów
 
 #### aws-questions
 

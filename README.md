@@ -98,6 +98,10 @@ Artykuły z najlepszych blogów chmurowych na świecie
 
 Wydarzenia - on-line i w realu - dotyczące chmury
 
+#### cloud-kindergarten
+
+Chmurowe przedszkole czyli miejsce dla stawiających pierwszy krok w chmurze. Nie przebywaj tu zbyt długo :-)
+
 #### gcp-links
 
 Linki do wysokiej jakości artykułów technicznych i repozytoriów - chmura GCP

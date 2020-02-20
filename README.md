@@ -10,7 +10,16 @@ Nie mamy wielu sztywnych zasad, ale obowiązują tu:
 
 ## Dla kogo?
 
-Dla wszystkich osób zainteresowanych wymianą wiedzy technicznej i doświadczenia w obszarze chmur obliczeniowych.
+Dla specjalistów IT
+
+    - architektów,
+    - developerów,
+    - administratorów,
+    - devopsów,
+    - bezpieczników,
+    - inżynierów i analityków danych
+
+i innych zainteresowanych wymianą wiedzy technicznej i doświadczeń obszarze chmur obliczeniowych
 
 ## Co robimy?
 
@@ -55,6 +64,10 @@ i kilka innych narzędzi (o szczegóły pytaj admina na kanale #org)
 - Ankiety odnośnie technologii
 
 Admina znajdziesz na kanale #org ;-)
+
+## Jak dołączyć?
+
+Znajdź admina (Karolina Boboli) na LinkedIn i napisz wiadomość prywatną z prośbą o dodanie do slacka. Podaj swój adres e-mail
 
 ## Co zrobić po dołączeniu do kanałów aws-*-certs?
 

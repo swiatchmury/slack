@@ -1,12 +1,14 @@
 # Slack "Świat Chmury"
 
-Świat Chmury jest przede wszystkim miejscem wymiany wiedzy technicznej i biznesowej oraz miejscem spotkań dla specjalistów z dziedziny chmury obliczeniowej.
+Slack światchmury.pl jest miejscem wymiany wiedzy technicznej oraz miejscem spotkań dla specjalistów z dziedziny chmury obliczeniowej.
 
 Nie mamy wielu sztywnych zasad, ale obowiązują tu:
 
 - merytokracja
 - kultura
 - gentelmen's agreements :-)
+
+Chmurowy Slack jest przedsięwzięciem niekomercyjnym.
 
 ## Dla kogo?
 
@@ -58,8 +60,7 @@ i kilka innych narzędzi (o szczegóły pytaj admina na kanale #org)
 
 - Informację o Twoim kursie on-line
 - Informację, że szukasz projektów, ludzi do projektu albo chcesz zaoferować swoje usługi innym
-- Ogłoszenie rekrutacyjne
-- Ogłoszenie o płatnym szkoleniu lub konferencji
+- Informację o płatnym szkoleniu lub konferencji
 - Informację o jakimkolwiek innym, komercyjnym przedsięwzięciu
 - Ankiety odnośnie technologii
 

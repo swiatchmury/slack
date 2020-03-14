@@ -43,7 +43,14 @@ Jeśli zechcesz dzielić się tu swoją wiedzą i doświadczeniem dotyczącym ch
 - Strona na Facebooku
 - Kanał na Youtube
 
-i kilka innych narzędzi (o szczegóły pytaj admina na kanale #org)
+i - poza Slackiem - kilka narzędzi:
+
+- Vimeo
+- Zoom
+- GetResponse w wersji Basic
+- Blog na swiatchmury.pl
+
+(o szczegóły pytaj admina na kanale #org)
 
 ## Co jest bardzo mile widziane?
 

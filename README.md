@@ -34,7 +34,7 @@ i innych zainteresowanych wymianą wiedzy technicznej i doświadczeń w obszarze
 - Dobrej jakości informacje techniczne o chmurze
 - Kontakt ze specjalistami od chmur obliczeniowych
 
-Jeśli zechcesz dzielić się tu swoją wiedzą i doświadczeniem dotyczącym chmury - śmiało dodawaj linki do dobrej jakości materiałów technicznych, odpowiadaj na pytania i pomagaj innym zdobywać certyfikacje.
+Śmiało dodawaj linki do materiałów technicznych, zadawaj pytania, odpowiadaj na pytania innych, zdobywaj certyfikaty i pomagaj je zdobywać innym - właśnie po to jest to miejsce :-)
 
 ## Co mamy do dyspozycji?
 

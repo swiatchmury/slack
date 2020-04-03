@@ -21,7 +21,7 @@ Dla specjalistów IT
     - bezpieczników,
     - inżynierów i analityków danych
 
-i innych zainteresowanych wymianą wiedzy technicznej i doświadczeń obszarze chmur obliczeniowych
+i innych zainteresowanych wymianą wiedzy technicznej i doświadczeń w obszarze chmur obliczeniowych
 
 ## Co robimy?
 

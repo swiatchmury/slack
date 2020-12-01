@@ -131,6 +131,10 @@ Linki do wysokiej jakości artykułów technicznych i repozytoriów - chmura GCP
 
 Pytania i odpowiedzi dotyczące technicznych aspektów chmury GCP
 
+#### azure-questions
+
+Pytania i odpowiedzi dotyczące technicznych aspektów chmury Microsoft Azure
+
 ### Kanały ogólne
 
 #### general
